@@ -18,6 +18,6 @@ Group project completed as part of Time Series Course in Nov, 2024.
 
 
 ## 📌 Acknowledgements
-This project was completed in collaboration with my friend, Suneha Sen. Special thanks to Prof M.R.Srinivasan for their guidance and feedback.
+This project was completed in collaboration with my friend, Suneha Sen. Special thanks to Prof M.R.Srinivasan for his guidance and feedback.
 
 
